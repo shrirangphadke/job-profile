@@ -5,15 +5,24 @@ Pune, India | shrirangphadke@gmail.com | +91 9960571189
 
 ## Summary
 
-Lead software engineer with 18+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong in Go, Python, Linux, control-plane architecture, APIs, CLI tooling, CI/CD, observability, and AI platform initiatives.
+Lead software engineer with 18+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong in Go, Python, Linux, control-plane architecture, APIs, platform reliability, technical leadership, and AI platform initiatives.
 
-## Core Strengths
+## Highlights
 
-- Distributed systems and storage platforms
+- Lead engineer for DDN RED, a multi-tenant distributed storage platform supporting customer environments at 250-node scale across four clusters.
+- Architected control-plane services, APIs, and CLI tooling for cluster lifecycle management, configuration, and monitoring.
+- Drove architecture discussions, PR reviews, stand-ups, and engineering execution across control plane, gateways, and monitoring subsystems.
+- Built CI/CD, observability, automated testing, and deployment workflows across Kubernetes, ArgoCD, GitHub Actions, Prometheus, Grafana, and ELK.
+- Contributed to AI skill definition and agentic framework initiatives alongside core platform engineering.
+
+## Core Skills
+
+- Distributed systems, storage platforms, and microservices
 - Go, Python, Bash, Linux
-- gRPC, REST, NFS, S3
+- gRPC, REST, NFS, S3, RDMA
 - Kubernetes, Docker, ArgoCD, GitHub Actions
 - Prometheus, Grafana, ELK, PostgreSQL, Redis
+- Architecture reviews, mentoring, code reviews, CI/CD
 
 ## Experience
 
@@ -21,21 +30,19 @@ Lead software engineer with 18+ years of experience building distributed systems
 
 Feb 2017 - Present
 
-- Lead engineering for DDN RED, a multi-tenant distributed storage platform for large-scale deployments.
-- Architect control-plane services in Go and gRPC for cluster lifecycle management.
-- Built `redapi` and `redcli` for configuration, operations, and monitoring.
-- Delivered initialization and configuration workflows for complex deployments across TCP, RDMA, Verbs, and SR-IOV environments.
-- Established CI/CD, automated testing, observability, and deployment workflows using GitHub Actions, Kubernetes, Docker, ArgoCD, Prometheus, Grafana, and ELK.
-- Managed engineers across control plane, NFS gateway, S3 gateway, and monitoring subsystems.
-- Supported customer deployments at 250-node cluster scale across four clusters and contributed to architecture decisions, stand-ups, PR reviews, and AI/agentic engineering initiatives.
+- Lead engineering for DDN RED, a multi-tenant distributed storage platform deployed in customer environments at 250-node scale across four clusters.
+- Architect control-plane services in Go and gRPC, plus `redapi` and `redcli`, for cluster lifecycle management, configuration, and monitoring.
+- Delivered cluster initialization, device management, and deployment workflows for complex environments across TCP, RDMA, Verbs, and SR-IOV.
+- Drove architecture discussions, team execution, stand-ups, PR reviews, and mentoring across control plane, NFS, S3, and monitoring components.
+- Built CI/CD, test, observability, and deployment systems using GitHub Actions, Kubernetes, Docker, ArgoCD, Prometheus, Grafana, and ELK.
+- Contributed to AI development skill definition and agentic framework efforts.
 
 ### Earlier Experience
 
-- Senior Development Engineer, Insight Monitoring Tool - DDN
-- Senior Development Engineer - Tieto India
-- Principal Development Engineer - Calsoft Pvt. Ltd.
-- Senior Engineer - Calsoft Pvt. Ltd.
-- Software Engineer - Cogentree Technologies
+- **DDN - Senior Development Engineer:** Built monitoring, telemetry, analytics, and log visibility platforms using Cassandra, InfluxDB, ELK, and TensorFlow.
+- **Tieto India - Senior Development Engineer:** Contributed to core banking software with focus on backend design, performance, scalability, and reliability.
+- **Calsoft Pvt. Ltd. - Principal Development Engineer:** Worked on storage management, OpenStack, and Linux-based platform components.
+- **Earlier Roles:** Built foundation in backend engineering, systems integration, and enterprise software delivery.
 
 ## Education
 
