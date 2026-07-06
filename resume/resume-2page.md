@@ -63,5 +63,16 @@ Apr 2014 - Dec 2015
 
 ## Education
 
+Master of Computer Applications (MCA), Part-time  
+Manipal University
+
+Post Graduate Diploma in Advanced Software Development  
+C-DAC
+
 Bachelor of Science in Mathematics, Computer Science, and Statistics  
 Nagpur University, 2004
+
+## Certifications and Additional Qualifications
+
+- JLPT N4 - Japan Foundation
+- Diploma in Japanese Language - Pune University

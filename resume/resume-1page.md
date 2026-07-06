@@ -38,5 +38,11 @@ Feb 2017 - Present
 
 ## Education
 
+Master of Computer Applications (MCA), Part-time  
+Manipal University
+
+Post Graduate Diploma in Advanced Software Development  
+C-DAC
+
 Bachelor of Science in Mathematics, Computer Science, and Statistics  
 Nagpur University, 2004
