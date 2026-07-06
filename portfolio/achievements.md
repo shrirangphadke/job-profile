@@ -1,6 +1,6 @@
 # Achievements
 
-- 13+ years of backend and platform engineering experience across storage, cloud, and enterprise software domains.
+- 18+ years of backend and platform engineering experience across storage, cloud, and enterprise software domains.
 - Lead engineering for DDN RED, enabling enterprise-scale, multi-petabyte storage cluster deployments.
 - Architected control-plane services, APIs, and CLI tooling for distributed cluster lifecycle management.
 - Reduced deployment effort and improved operational consistency through automated initialization, configuration, and validation workflows.

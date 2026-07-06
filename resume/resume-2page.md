@@ -5,7 +5,7 @@ Pune, India | shrirangphadke@gmail.com | +91 9960571189
 
 ## Professional Summary
 
-Lead software engineer with 13+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong background in Go, Python, Linux, microservices, and control-plane architecture, with hands-on leadership across APIs, CLI tooling, CI/CD, observability, large-scale cluster deployment, and AI platform initiatives.
+Lead software engineer with 18+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong background in Go, Python, Linux, microservices, and control-plane architecture, with hands-on leadership across APIs, CLI tooling, CI/CD, observability, large-scale cluster deployment, and AI platform initiatives.
 
 ## Career Highlights
 
