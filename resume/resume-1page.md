@@ -13,7 +13,7 @@ Lead software engineer with 18+ years of experience building distributed systems
 - Architected control-plane services, APIs, and CLI tooling for cluster lifecycle management, configuration, and monitoring.
 - Drove architecture discussions, PR reviews, stand-ups, and engineering execution across control plane, gateways, and monitoring subsystems.
 - Built CI/CD, observability, automated testing, and deployment workflows across Kubernetes, ArgoCD, GitHub Actions, Prometheus, Grafana, and ELK.
-- Contributed to AI skill definition and agentic framework initiatives alongside core platform engineering.
+- Contributed to organizational skill management and skill policy compliance for AI development initiatives alongside core platform engineering.
 
 ## Core Skills
 
@@ -35,7 +35,7 @@ Feb 2017 - Present
 - Delivered cluster initialization, device management, and deployment workflows for complex environments across TCP, RDMA, Verbs, and SR-IOV.
 - Drove architecture discussions, team execution, stand-ups, PR reviews, and mentoring across control plane, NFS, S3, and monitoring components.
 - Built CI/CD, test, observability, and deployment systems using GitHub Actions, Kubernetes, Docker, ArgoCD, Prometheus, Grafana, and ELK.
-- Contributed to AI development skill definition and agentic framework efforts.
+- Contributed to organizational skill management and skill policy compliance for AI development initiatives.
 
 ### Earlier Experience
 

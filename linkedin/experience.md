@@ -12,7 +12,7 @@
 - Built CI/CD, automated testing, observability, and deployment workflows using GitHub Actions, Docker, Kubernetes, ArgoCD, Prometheus, Grafana, and ELK.
 - Managed engineers across control plane, NFS gateway, S3 gateway, and monitoring components.
 - Mentored engineers on distributed systems, Go best practices, and system design.
-- Participate actively in architecture decisions, run stand-ups, conduct PR reviews, and help define skills for AI development and agentic framework initiatives.
+- Participate actively in architecture decisions, run stand-ups, conduct PR reviews, and contribute to organizational skill management and skill policy compliance for AI development initiatives.
 
 ### Senior Development Engineer, Insight Monitoring Tool
 

@@ -13,7 +13,7 @@ Lead software engineer with 18+ years of experience building distributed systems
 - Architected control-plane services, `redapi`, and `redcli` for cluster lifecycle management, configuration, and monitoring.
 - Delivered initialization systems for complex multi-node environments across TCP, RDMA, Verbs, and SR-IOV.
 - Built automated testing, benchmarking, monitoring, and deployment workflows that improved release confidence and platform reliability.
-- Contributed to architecture decisions, team leadership, AI skill definition, and agentic framework initiatives.
+- Contributed to architecture decisions, team leadership, and organizational skill management and skill policy compliance for AI development initiatives.
 
 ## Technical Skills
 
@@ -41,7 +41,7 @@ Feb 2017 - Present
 - Established development workflows, CI/CD pipelines, and code review practices using GitHub Actions.
 - Built automated testing coverage across unit, integration, end-to-end, fuzzing, stress, long-haul, compliance, and benchmarking scenarios.
 - Implemented monitoring and dashboards using Prometheus, Grafana, ELK, and custom metrics.
-- Defined required skills for AI development initiatives and contributed to agentic framework efforts.
+- Contributed to organizational skill management and skill policy compliance for AI development initiatives.
 
 ### DDN - Senior Development Engineer, Insight Monitoring Tool
 

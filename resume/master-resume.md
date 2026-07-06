@@ -14,7 +14,7 @@ Lead software engineer with 18+ years of experience building distributed systems
 - Delivered cluster initialization and configuration systems for complex multi-node environments across TCP, RDMA, Verbs, and SR-IOV topologies.
 - Built CI/CD, automated testing, monitoring, benchmarking, and deployment workflows that improved reliability and release confidence.
 - Led engineers across control plane, NFS gateway, S3 gateway, and monitoring components while establishing engineering best practices, PR review discipline, and delivery rhythms.
-- Contributed to AI development skill definition and participated in agentic framework initiatives.
+- Contribute to skill management and skill policy compliance for AI development initiatives within the organization.
 
 ## Technical Skills
 
@@ -95,7 +95,7 @@ Feb 2017 - Present
 - Implemented monitoring solutions using Prometheus, Grafana, ELK, and custom metrics for cluster health, performance, and capacity planning.
 - Designed deployment automation with Docker, Kubernetes, ArgoCD, and infrastructure-as-code practices.
 - Delivered device discovery and management capabilities with failure-domain awareness and capacity planning support.
-- Define required engineering skills for AI development initiatives and contribute to agentic framework efforts.
+- Contribute to skill management and skill policy compliance for AI development initiatives within the organization.
 
 ### DDN Storage India - Senior Development Engineer, Insight Monitoring Tool
 
