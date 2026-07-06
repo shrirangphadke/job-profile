@@ -5,7 +5,7 @@ Pune, India | shrirangphadke@gmail.com | +91 9960571189
 
 ## Summary
 
-Lead software engineer with 13+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong in Go, Python, Linux, control-plane architecture, APIs, CLI tooling, CI/CD, and observability.
+Lead software engineer with 13+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong in Go, Python, Linux, control-plane architecture, APIs, CLI tooling, CI/CD, observability, and AI platform initiatives.
 
 ## Core Strengths
 
@@ -27,6 +27,7 @@ Feb 2017 - Present
 - Delivered initialization and configuration workflows for complex deployments across TCP, RDMA, Verbs, and SR-IOV environments.
 - Established CI/CD, automated testing, observability, and deployment workflows using GitHub Actions, Kubernetes, Docker, ArgoCD, Prometheus, Grafana, and ELK.
 - Managed engineers across control plane, NFS gateway, S3 gateway, and monitoring subsystems.
+- Supported customer deployments at 250-node cluster scale across four clusters and contributed to architecture decisions, stand-ups, PR reviews, and AI/agentic engineering initiatives.
 
 ### Earlier Experience
 

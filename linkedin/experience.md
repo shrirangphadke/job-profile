@@ -5,12 +5,14 @@
 ### Lead Software Engineer, DDN RED Distributed Storage System
 
 - Lead engineering for DDN RED, an enterprise distributed storage system built for large-scale, multi-tenant deployments.
+- Support production customer deployments running 250-node clusters across four installations.
 - Architect and implement control-plane services in Go and gRPC for cluster lifecycle management.
 - Designed REST APIs (`redapi`) and CLI tooling (`redcli`) for configuration, operations, and monitoring.
 - Delivered cluster initialization and configuration systems for complex multi-node deployments across TCP, RDMA, Verbs, and SR-IOV networking topologies.
 - Built CI/CD, automated testing, observability, and deployment workflows using GitHub Actions, Docker, Kubernetes, ArgoCD, Prometheus, Grafana, and ELK.
 - Managed engineers across control plane, NFS gateway, S3 gateway, and monitoring components.
 - Mentored engineers on distributed systems, Go best practices, and system design.
+- Participate actively in architecture decisions, run stand-ups, conduct PR reviews, and help define skills for AI development and agentic framework initiatives.
 
 ### Senior Development Engineer, Insight Monitoring Tool
 

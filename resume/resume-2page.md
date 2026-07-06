@@ -5,14 +5,15 @@ Pune, India | shrirangphadke@gmail.com | +91 9960571189
 
 ## Professional Summary
 
-Lead software engineer with 13+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong background in Go, Python, Linux, microservices, and control-plane architecture, with hands-on leadership across APIs, CLI tooling, CI/CD, observability, and large-scale cluster deployment.
+Lead software engineer with 13+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong background in Go, Python, Linux, microservices, and control-plane architecture, with hands-on leadership across APIs, CLI tooling, CI/CD, observability, large-scale cluster deployment, and AI platform initiatives.
 
 ## Career Highlights
 
-- Lead software engineer for DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage platform.
+- Lead software engineer for DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage platform supporting customer environments at 250-node scale across four clusters.
 - Architected control-plane services, `redapi`, and `redcli` for cluster lifecycle management, configuration, and monitoring.
 - Delivered initialization systems for complex multi-node environments across TCP, RDMA, Verbs, and SR-IOV.
 - Built automated testing, benchmarking, monitoring, and deployment workflows that improved release confidence and platform reliability.
+- Contributed to architecture decisions, team leadership, AI skill definition, and agentic framework initiatives.
 
 ## Technical Skills
 
@@ -20,7 +21,7 @@ Lead software engineer with 13+ years of experience building distributed systems
 - Platforms: Linux, Kubernetes, Docker, distributed systems, microservices
 - Protocols and Interfaces: gRPC, REST, NFS, S3
 - Observability and Data: Prometheus, Grafana, ELK, PostgreSQL, Redis, Cassandra, InfluxDB
-- Engineering: CI/CD, code review, mentoring, performance benchmarking, fuzz testing
+- Engineering: CI/CD, code review, mentoring, performance benchmarking, fuzz testing, architecture reviews, AI development workflows
 
 ## Professional Experience
 
@@ -29,14 +30,18 @@ Lead software engineer with 13+ years of experience building distributed systems
 Feb 2017 - Present
 
 - Lead development of DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage system built for large-scale deployments.
+- Support production customer environments with 250-node clusters across four installations, totaling about 1,000 nodes.
 - Architect and implement control-plane services for distributed storage cluster management using Go and gRPC.
 - Design and build RESTful APIs (`redapi`) and CLI tooling (`redcli`) for lifecycle management, configuration, and monitoring.
 - Delivered cluster initialization and configuration workflows supporting complex network topologies including TCP, RDMA, Verbs, and SR-IOV.
 - Implemented erasure coding, device management, data protection, and failure-domain-aware workflows.
 - Managed engineers across control plane, NFS gateway, S3 gateway, and monitoring components.
+- Participated actively in architecture decision making and technical design discussions.
+- Ran team stand-ups, conducted PR reviews, and drove delivery execution across components.
 - Established development workflows, CI/CD pipelines, and code review practices using GitHub Actions.
 - Built automated testing coverage across unit, integration, end-to-end, fuzzing, stress, long-haul, compliance, and benchmarking scenarios.
 - Implemented monitoring and dashboards using Prometheus, Grafana, ELK, and custom metrics.
+- Defined required skills for AI development initiatives and contributed to agentic framework efforts.
 
 ### DDN - Senior Development Engineer, Insight Monitoring Tool
 

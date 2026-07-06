@@ -5,15 +5,16 @@ Pune, India | shrirangphadke@gmail.com | +91 9960571189
 
 ## Professional Summary
 
-Lead software engineer with 13+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong background in Go, Python, Linux, microservices, and control-plane architecture, with hands-on leadership across APIs, CLI tooling, CI/CD, observability, and large-scale cluster deployment. Experienced in mentoring engineers, leading cross-functional delivery, and turning complex infrastructure requirements into reliable production systems.
+Lead software engineer with 13+ years of experience building distributed systems, cloud-native platforms, and enterprise storage infrastructure. Strong background in Go, Python, Linux, microservices, and control-plane architecture, with hands-on leadership across APIs, CLI tooling, CI/CD, observability, large-scale cluster deployment, and AI platform initiatives. Experienced in mentoring engineers, leading cross-functional delivery, shaping architecture decisions, and turning complex infrastructure requirements into reliable production systems.
 
 ## Career Highlights
 
-- Lead software engineer for DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage platform for at-scale deployments.
+- Lead software engineer for DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage platform supporting customer environments at 250-node cluster scale across four clusters.
 - Architected control-plane services, `redapi`, and `redcli` for cluster lifecycle management, configuration, and monitoring.
 - Delivered cluster initialization and configuration systems for complex multi-node environments across TCP, RDMA, Verbs, and SR-IOV topologies.
 - Built CI/CD, automated testing, monitoring, benchmarking, and deployment workflows that improved reliability and release confidence.
-- Led engineers across control plane, NFS gateway, S3 gateway, and monitoring components while establishing engineering best practices.
+- Led engineers across control plane, NFS gateway, S3 gateway, and monitoring components while establishing engineering best practices, PR review discipline, and delivery rhythms.
+- Contributed to AI development skill definition and participated in agentic framework initiatives.
 
 ## Technical Skills
 
@@ -64,11 +65,14 @@ Lead software engineer with 13+ years of experience building distributed systems
 - Agile development
 - Team leadership
 - Stakeholder communication
+- Architecture decision making
 - CI/CD
 - Code review
 - Mentoring
 - Performance benchmarking
 - Fuzz testing
+- AI development workflows
+- Agentic frameworks
 
 ## Professional Experience
 
@@ -77,17 +81,21 @@ Lead software engineer with 13+ years of experience building distributed systems
 Feb 2017 - Present
 
 - Lead development of DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage system built for large-scale deployments.
+- Support production-scale customer deployments running 250-node clusters across four installations, totaling roughly 1,000 nodes.
 - Architect and implement control-plane services for distributed storage cluster management using Go and gRPC.
 - Design and build RESTful APIs (`redapi`) and CLI tooling (`redcli`) for cluster lifecycle management, configuration, and monitoring.
 - Led development of cluster initialization and configuration management workflows supporting multi-node deployments with complex network topologies including TCP, RDMA, Verbs, and SR-IOV.
 - Implement erasure coding strategies, device management, and data protection mechanisms for distributed storage.
+- Actively participate in architectural decision making and technical design discussions for core platform evolution.
 - Manage engineers across control-plane, NFS gateway, S3 gateway, and monitoring components, coordinating delivery across teams.
+- Run team stand-ups, conduct PR reviews, and drive engineering execution across components.
 - Established development workflows, code review practices, and CI/CD pipelines using GitHub Actions.
 - Mentor engineers on distributed systems, Go best practices, and system design.
 - Built comprehensive automated testing pipelines covering unit, integration, end-to-end, fuzzing, stress, long-haul, compliance, and benchmarking scenarios.
 - Implemented monitoring solutions using Prometheus, Grafana, ELK, and custom metrics for cluster health, performance, and capacity planning.
 - Designed deployment automation with Docker, Kubernetes, ArgoCD, and infrastructure-as-code practices.
 - Delivered device discovery and management capabilities with failure-domain awareness and capacity planning support.
+- Define required engineering skills for AI development initiatives and contribute to agentic framework efforts.
 
 ### DDN Storage India - Senior Development Engineer, Insight Monitoring Tool
 
@@ -146,6 +154,8 @@ Jul 2008 - Nov 2011
 - Implemented erasure coding and data protection mechanisms for resilient storage operations.
 - Built deployment automation, observability, and validation workflows for enterprise-scale clusters.
 - Established testing strategy spanning NFStest compliance, PyNFS validation, LibFuzzer-based coverage, and IO500 benchmarking.
+- Supported large customer environments running up to 250-node clusters across four deployments.
+- Participated in architecture decisions, operational support, and scaling discussions for production deployments.
 
 ### Insight Monitoring and Analytics Platform
 
