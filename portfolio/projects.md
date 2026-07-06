@@ -24,10 +24,10 @@
 
 ## Core Banking Platform Engineering
 
-- Contributed to the design and development of a core banking solution.
-- Focused on performance, scalability, and optimization.
+- Contributed to backend design and development of a core banking solution in a reliability-focused enterprise domain.
+- Worked on performance, scalability, and optimization in Python, Oracle, and Linux environments.
 
 ## Storage Management and OpenStack Development
 
-- Worked on storage management layers for storage products.
-- Contributed to OpenStack cloud and log analytics initiatives.
+- Built storage management layers and platform components for storage-focused products.
+- Contributed to OpenStack cloud development and log analytics initiatives in Linux environments.

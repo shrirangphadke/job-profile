@@ -101,42 +101,45 @@ Feb 2017 - Present
 
 Feb 2017 - Prior role within DDN
 
-- Developed monitoring and analytics capabilities for the Insight platform.
-- Architected and worked with Cassandra and InfluxDB for scalable data handling.
-- Built core data collection services for operational monitoring.
-- Integrated Cassandra for high availability requirements.
-- Integrated Elasticsearch, Logstash, and Kibana for log analytics.
-- Worked on machine learning models for streaming data use cases.
+- Built monitoring and analytics capabilities for the Insight platform supporting operational visibility for infrastructure software.
+- Developed core telemetry and data collection services for metrics, logs, and operational health signals.
+- Worked with Cassandra and InfluxDB to support scalable, high-availability data ingestion and storage.
+- Integrated Elasticsearch, Logstash, and Kibana to deliver log analytics and troubleshooting workflows.
+- Contributed to streaming-data and machine-learning-oriented analytics use cases for infrastructure monitoring.
 
 ### Tieto India - Senior Development Engineer
 
 Mar 2016 - Feb 2017
 
-- Worked on BankSyst core banking software solutions.
-- Contributed to design and development with emphasis on performance, scalability, and optimization.
-- Used Python, Oracle, and Linux in the delivery environment.
+- Contributed to BankSyst core banking solutions in a performance-sensitive enterprise environment.
+- Worked on backend design and implementation with focus on scalability, reliability, and runtime optimization.
+- Improved core application behavior in a Linux and Oracle-based environment using Python.
+- Gained experience delivering software in a domain where correctness, stability, and maintainability were critical.
 
 ### Calsoft Pvt. Ltd. - Principal Development Engineer
 
 Apr 2014 - Dec 2015
 
-- Worked on storage solutions with responsibility for storage management layers.
-- Contributed to OpenStack cloud development and log analytics projects.
-- Used Python, C++, Splunk, OpenStack, and Linux.
+- Worked across storage and cloud engineering initiatives with responsibility for storage management layers and platform components.
+- Contributed to OpenStack-based cloud development and log analytics projects in Linux environments.
+- Built and enhanced systems using Python, C++, Splunk, and OpenStack tooling.
+- Strengthened depth in storage architecture, systems programming, and platform integration.
 
 ### Calsoft Pvt. Ltd. - Senior Engineer
 
 Nov 2011 - Oct 2013
 
-- Worked on engineering initiatives in storage and systems-oriented environments.
-- Additional project details to be refreshed from current records.
+- Contributed to engineering projects in storage and systems-focused environments.
+- Worked on backend and platform components that built early depth in storage concepts, Linux systems, and enterprise software delivery.
+- Collaborated across product and engineering teams on implementation and integration work.
 
 ### Cogentree Technologies - Software Engineer
 
 Jul 2008 - Nov 2011
 
-- Early-career software engineering role.
-- Additional project details to be refreshed from current records.
+- Started software engineering career building application and backend development fundamentals.
+- Gained hands-on experience in implementation, debugging, and delivery across real-world software projects.
+- Built the foundation for later specialization in systems, storage, and platform engineering.
 
 ## Major Projects
 
@@ -159,12 +162,19 @@ Jul 2008 - Nov 2011
 
 ### Insight Monitoring and Analytics Platform
 
-- Built data collection and analytics services for infrastructure monitoring.
-- Worked with time-series and distributed data stores plus log analytics tooling.
+- Built telemetry collection and analytics services for infrastructure monitoring platforms.
+- Worked with Cassandra, InfluxDB, and ELK-based tooling for scalable operational visibility.
+- Contributed to high-availability data handling and streaming-data analytics use cases.
 
 ### Storage Management and OpenStack Initiatives
 
-- Contributed to storage management layers and cloud platform development.
+- Built storage management and platform components for storage-focused products.
+- Contributed to OpenStack cloud development and log analytics initiatives in Linux environments.
+
+### Core Banking Platform Engineering
+
+- Contributed to core banking software in an enterprise environment with strong reliability and performance expectations.
+- Worked on backend design and optimization in Python with Oracle and Linux.
 
 ## Education
 

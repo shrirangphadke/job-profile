@@ -20,3 +20,5 @@
 - Designing initialization systems for complex multi-node deployments.
 - Building failure-domain-aware device management and capacity planning flows.
 - Establishing CI/CD and test architecture for storage platforms.
+- Building scalable monitoring and analytics pipelines for infrastructure platforms.
+- Working in enterprise domains where reliability, performance, and maintainability were critical.

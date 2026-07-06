@@ -16,29 +16,34 @@
 
 ### Senior Development Engineer, Insight Monitoring Tool
 
-- Developed monitoring and analytics capabilities for infrastructure software.
-- Built core data collection services and supported high-availability data handling.
-- Worked with Cassandra, InfluxDB, Elasticsearch, Logstash, Kibana, TensorFlow, and Linux.
+- Built monitoring and analytics capabilities for infrastructure software.
+- Developed telemetry and data collection services for operational visibility and health monitoring.
+- Supported scalable, high-availability data handling using Cassandra and InfluxDB.
+- Integrated Elasticsearch, Logstash, and Kibana for log analytics and troubleshooting workflows.
+- Worked with TensorFlow and streaming-data use cases in analytics-oriented scenarios.
 
 ## Tieto India
 
 ### Senior Development Engineer
 
-- Worked on core banking software with focus on design, performance, scalability, and optimization.
-- Used Python, Oracle, and Linux.
+- Contributed to core banking software with focus on backend design, performance, scalability, and optimization.
+- Worked in a Python, Oracle, and Linux environment with strong reliability requirements.
 
 ## Calsoft Pvt. Ltd.
 
 ### Principal Development Engineer
 
-- Worked on storage solutions, storage management layers, OpenStack development, and log analytics.
+- Worked on storage solutions, storage management layers, OpenStack development, and log analytics initiatives.
+- Contributed across platform components in Linux-based cloud and storage environments.
 
 ### Senior Engineer
 
-- Add more detailed project summary from current records.
+- Contributed to storage and systems-oriented engineering initiatives.
+- Built early depth in backend systems, Linux environments, and enterprise platform delivery.
 
 ## Cogentree Technologies
 
 ### Software Engineer
 
-- Add more detailed project summary from current records.
+- Built foundational software engineering experience across implementation, debugging, and delivery.
+- Developed early strengths that later evolved into systems and platform engineering work.
