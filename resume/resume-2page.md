@@ -9,8 +9,9 @@ Lead software engineer with 18+ years of experience building distributed systems
 
 ## Career Highlights
 
-- Lead software engineer for DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage platform supporting customer environments at 250-node scale across four clusters.
+- Lead software engineer for DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage platform supporting customer environments totaling roughly 1,000 nodes across four clusters.
 - Architected control-plane services, `redapi`, and `redcli` for cluster lifecycle management, configuration, and monitoring.
+- Led modern control-plane UI engineering across React, Angular, and Go/TUI, including Infinia Console, Infinia UI, and Clifana for real-time monitoring and operations visibility.
 - Delivered initialization systems for complex multi-node environments across TCP, RDMA, Verbs, and SR-IOV.
 - Built automated testing, benchmarking, monitoring, and deployment workflows that improved release confidence and platform reliability.
 - Contributed to architecture decisions, team leadership, and organizational skill management and skill policy compliance for AI development initiatives.
@@ -30,9 +31,10 @@ Lead software engineer with 18+ years of experience building distributed systems
 Feb 2017 - Present
 
 - Lead development of DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage system built for large-scale deployments.
-- Support production customer environments with 250-node clusters across four installations, totaling about 1,000 nodes.
+- Support production customer environments totaling roughly 1,000 nodes across four clusters.
 - Architect and implement control-plane services for distributed storage cluster management using Go and gRPC.
 - Design and build RESTful APIs (`redapi`) and CLI tooling (`redcli`) for lifecycle management, configuration, and monitoring.
+- Led development of Infinia Console, a React-based control-plane UI replacing a legacy Angular application, and architected Infinia UI using Angular signals and zoneless architecture.
 - Delivered cluster initialization and configuration workflows supporting complex network topologies including TCP, RDMA, Verbs, and SR-IOV.
 - Implemented erasure coding, device management, data protection, and failure-domain-aware workflows.
 - Managed engineers across control plane, NFS gateway, S3 gateway, and monitoring components.
@@ -41,6 +43,7 @@ Feb 2017 - Present
 - Established development workflows, CI/CD pipelines, and code review practices using GitHub Actions.
 - Built automated testing coverage across unit, integration, end-to-end, fuzzing, stress, long-haul, compliance, and benchmarking scenarios.
 - Implemented monitoring and dashboards using Prometheus, Grafana, ELK, and custom metrics.
+- Designed Prometheus and Grafana monitoring with custom exporters, tenant-aware dashboards, capacity planning views, and Clifana, a Go/TUI dashboard for real-time metrics.
 - Contributed to organizational skill management and skill policy compliance for AI development initiatives.
 
 ### DDN - Senior Development Engineer, Insight Monitoring Tool

@@ -9,8 +9,9 @@ Lead software engineer with 18+ years of experience building distributed systems
 
 ## Career Highlights
 
-- Lead software engineer for DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage platform supporting customer environments at 250-node cluster scale across four clusters.
+- Lead software engineer for DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage platform supporting customer environments totaling roughly 1,000 nodes across four clusters.
 - Architected control-plane services, `redapi`, and `redcli` for cluster lifecycle management, configuration, and monitoring.
+- Led modern control-plane UI engineering across React, Angular, and Go/TUI, including Infinia Console, Infinia UI, and Clifana for real-time cluster monitoring and operations visibility.
 - Delivered cluster initialization and configuration systems for complex multi-node environments across TCP, RDMA, Verbs, and SR-IOV topologies.
 - Built CI/CD, automated testing, monitoring, benchmarking, and deployment workflows that improved reliability and release confidence.
 - Led engineers across control plane, NFS gateway, S3 gateway, and monitoring components while establishing engineering best practices, PR review discipline, and delivery rhythms.
@@ -81,9 +82,11 @@ Lead software engineer with 18+ years of experience building distributed systems
 Feb 2017 - Present
 
 - Lead development of DDN RED, an enterprise-grade, multi-tenant, multi-protocol distributed storage system built for large-scale deployments.
-- Support production-scale customer deployments running 250-node clusters across four installations, totaling roughly 1,000 nodes.
+- Support production-scale customer deployments totaling roughly 1,000 nodes across four clusters.
 - Architect and implement control-plane services for distributed storage cluster management using Go and gRPC.
 - Design and build RESTful APIs (`redapi`) and CLI tooling (`redcli`) for cluster lifecycle management, configuration, and monitoring.
+- Led development of Infinia Console, a modern React-based control-plane UI replacing a legacy Angular application, and architected Infinia UI with signal-based state management and zoneless Angular architecture.
+- Built Clifana, a terminal-based Prometheus dashboard in Go/TUI for real-time cluster health, capacity, throughput, IOPS, latency, alerts, and task monitoring.
 - Led development of cluster initialization and configuration management workflows supporting multi-node deployments with complex network topologies including TCP, RDMA, Verbs, and SR-IOV.
 - Implement erasure coding strategies, device management, and data protection mechanisms for distributed storage.
 - Actively participate in architectural decision making and technical design discussions for core platform evolution.
@@ -93,6 +96,7 @@ Feb 2017 - Present
 - Mentor engineers on distributed systems, Go best practices, and system design.
 - Built comprehensive automated testing pipelines covering unit, integration, end-to-end, fuzzing, stress, long-haul, compliance, and benchmarking scenarios.
 - Implemented monitoring solutions using Prometheus, Grafana, ELK, and custom metrics for cluster health, performance, and capacity planning.
+- Designed comprehensive monitoring with Prometheus and Grafana, including custom exporters and dashboards for cluster health, per-tenant utilization, network bandwidth, storage capacity, and capacity planning.
 - Designed deployment automation with Docker, Kubernetes, ArgoCD, and infrastructure-as-code practices.
 - Delivered device discovery and management capabilities with failure-domain awareness and capacity planning support.
 - Contribute to skill management and skill policy compliance for AI development initiatives within the organization.
@@ -157,7 +161,7 @@ Jul 2008 - Nov 2011
 - Implemented erasure coding and data protection mechanisms for resilient storage operations.
 - Built deployment automation, observability, and validation workflows for enterprise-scale clusters.
 - Established testing strategy spanning NFStest compliance, PyNFS validation, LibFuzzer-based coverage, and IO500 benchmarking.
-- Supported large customer environments running up to 250-node clusters across four deployments.
+- Supported large customer environments totaling roughly 1,000 nodes distributed across four clusters.
 - Participated in architecture decisions, operational support, and scaling discussions for production deployments.
 
 ### Insight Monitoring and Analytics Platform
