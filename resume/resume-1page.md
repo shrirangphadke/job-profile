@@ -12,16 +12,16 @@ Lead software engineer with 18+ years of experience building distributed systems
 - Lead engineer for DDN RED, a multi-tenant distributed storage platform supporting customer environments totaling roughly 1,000 nodes across four clusters.
 - Architected control-plane services, APIs, and CLI tooling for cluster lifecycle management, configuration, and monitoring.
 - Drove architecture discussions, PR reviews, stand-ups, and engineering execution across control plane, gateways, and monitoring subsystems.
-- Built CI/CD, observability, automated testing, and deployment workflows across Kubernetes, ArgoCD, GitHub Actions, Prometheus, Grafana, and ELK.
+- Built CI/CD, observability, automated testing, and deployment workflows across Kubernetes, GitHub Actions, Prometheus, Grafana, and ELK.
 - Led control-plane UI engineering across React, Angular, and Go/TUI, including Infinia Console, Infinia UI, and Clifana for real-time monitoring visibility.
 - Contributed to organizational skill management and skill policy compliance for AI development initiatives alongside core platform engineering.
 
 ## Core Skills
 
-- Distributed systems, storage platforms, and microservices
+- Distributed systems, monitoring, storage platforms, and microservices
 - Go, Python, Bash, Linux
-- gRPC, REST, NFS, S3, RDMA
-- Kubernetes, Docker, ArgoCD, GitHub Actions
+- gRPC, REST, S3
+- Kubernetes, Docker, GitHub Actions
 - Prometheus, Grafana, ELK, PostgreSQL, Redis
 - Architecture reviews, mentoring, code reviews, CI/CD
 
@@ -35,7 +35,7 @@ Feb 2017 - Present
 - Architect control-plane services in Go and gRPC, plus `redapi` and `redcli`, for cluster lifecycle management, configuration, and monitoring.
 - Delivered cluster initialization, device management, and deployment workflows for complex environments across TCP, RDMA, Verbs, and SR-IOV.
 - Drove architecture discussions, team execution, stand-ups, PR reviews, and mentoring across control plane, NFS, S3, and monitoring components.
-- Built CI/CD, test, observability, and deployment systems using GitHub Actions, Kubernetes, Docker, ArgoCD, Prometheus, Grafana, and ELK.
+- Built CI/CD, test, observability, and deployment systems using GitHub Actions, Kubernetes, Docker, Prometheus, Grafana, and ELK.
 - Led modern control-plane UI work spanning React, Angular, and Go/TUI, including a React replacement for a legacy Angular UI, a zoneless Angular architecture, and a terminal Prometheus dashboard for real-time operations monitoring.
 - Contributed to organizational skill management and skill policy compliance for AI development initiatives.
 
